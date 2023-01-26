@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40515E
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  letter-spacing: 5px;
+  font-family: fantasy;
+  font-size: 60px;
+  color: #2b9595;
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: #2b9999;
+  margin-bottom: 1px;
+
+}
+
+h2 {
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 38px;
+  color: #2b9999;
+
+
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 40px 0;
+
+}
+
+.middle-container {
+  width: 90%;
+  margin: auto;
+
+}
+
+.about {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+
+}
+
+.face {
+  width: 40%;
+  object-fit: contain;
+
+}
+
+.intro {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 18px;
+  width: 55%;
+  line-height: 2;
+}
+
+.subActivites {
+  font-size: 20px;
+}
+
+span {
+  font-weight: bold;
+  font-size: 24px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 60px;
+}
+
+.footer-link {
+  color: white;
+  padding-left: 5px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #000000;
+}
+
+.view__Btn {
+  margin-top: 40px;
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+  line-height: 2;
+}
+
+.view__Btn a {
+  background: #11999E;
+  border-color: transparent;
+  font-family: "Kaushan Script", cursive;
+  color: rgb(232, 185, 185);
+  font-size: 17px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.view__Btn a:hover {
+  background: rgb(232, 185, 185);
+  color: #11999E;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  list-style-type: none;
+  line-height: 2;
+  font-size: 18px;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 30px;
+
+}
+
+li {
+  width: 50%;
+}
+ 
+
+
